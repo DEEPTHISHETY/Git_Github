@@ -20,6 +20,9 @@ To fetch the code from remote repo: This pull the code from remote but doesnt me
 
 To pull the code from remote repo:  this pull the code from remote and merges the code to local too.
 
+    git pull https://github.com/DEEPTHISHETY/Git_Github.git
+    git pull
+
 To check the branches
 
     git branch
